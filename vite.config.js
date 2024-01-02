@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'frontend_vue3_cadastro_de_profissionais',
+  base: '/frontend_vue3_cadastro_de_profissionais',
   plugins: [vue()],
 })
